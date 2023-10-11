@@ -3,9 +3,9 @@
 
 Part 1. Clarify Business Scenario of IngredientOnline: Track multiple touchpoints of our user journey via Google Tag Manager and Google Analytics
 
-Part 2. Identifying Key Performance Indicators (KPIs): Seller sign-up//Begin checkout/Order placement
+Part 2. Identifying Key Performance Indicators (KPIs): Seller sign-up//Begin checkout/Order placement/etc
 
-Part 3. Google Tag Event Creation
+Part 3. Google Tag Event Creation in GTM Platform
 
 Part 4. Testing and Verification in GTM Debug Prview Mode
 
